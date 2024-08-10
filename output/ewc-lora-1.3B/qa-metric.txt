@@ -1,0 +1,13 @@
+act infer: 0.6221
+act recog: 0.8488
+count: 0.2629
+housework qa: 0.7739
+neg housework qa: 0.3889
+obj move: 0.4150u
+
+act infer: 0.6069
+act recog: 0.7942
+count: 0.2216
+housework qa: 0.7088
+neg housework qa: 0.4012
+obj move: 0.2150
